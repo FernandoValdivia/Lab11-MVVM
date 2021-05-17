@@ -1,0 +1,15 @@
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.deps.json
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.dll
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\ref\MVVM.dll
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\bin\Debug\netstandard2.0\MVVM.pdb
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csprojAssemblyReference.cache
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\View\Operations.xaml.g.cs
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfoInputs.cache
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.AssemblyInfo.cs
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.csproj.CoreCompileInputs.cache
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.dll
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\ref\MVVM.dll
+C:\2021-1\AMM\Xamarin\MVVM\MVVM\MVVM\obj\Debug\netstandard2.0\MVVM.pdb
